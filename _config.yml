@@ -37,6 +37,7 @@ keywords:              [Programming, Engine, Game, Cat]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
+asset_url:             /assets
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
