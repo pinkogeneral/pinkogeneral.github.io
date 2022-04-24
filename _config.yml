@@ -24,7 +24,7 @@ title:                 핑크코냥의 개발일기
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- hello 
+ 안녕하세요. 저는 성선미 입니다.
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
@@ -48,20 +48,21 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:			About
-    url:			/about/
-  - title:			Example1
-    url:			/example1/
-  - title:			Example2
-    url:			/example2/
+  - title:		  	About
+    url:			    /about/
+  - title:			  Example1
+    url:			    /example1/
+  - title:			  Example2
+    url:			    /example2/
   
-  - title:			Subcat
-    url:			/subcat/
-    submenu:      
-      - title:		Test1
-        url:			/test1/
-      - title:		Test2
-        url:			/test2/
+  - title:			  Subcat
+    url:			    /subcat/
+
+submenu:      
+  - title:		     Test1
+    url:			     /test1/
+  - title:		     Test2
+    url:			     /test2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -429,3 +430,12 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []
