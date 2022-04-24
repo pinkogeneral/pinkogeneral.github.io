@@ -27,9 +27,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          AhnaGeneral
+    github:            AhnaGeneral
     # email:           <mail@domain.tld>
-    rss:             https://PinkoBlog.github.io
+    rss:               https://pinkogeneral.github.io
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
